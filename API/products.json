@@ -1,0 +1,138 @@
+[
+    {
+    "productId":1,
+    "category":"coffee",
+    "name":"Arabica beans",
+    "description":"Praesent quis orci luctus, pretium lectus quis, suscipit ipsum. Praesent et lacus pharetra, interdum ipsum id, porttitor velit. Integer volutpat cursus ante, eget malesuada purus dictum non. Vestibulum a arcu dignissim, eleifend neque quis, blandit libero. Proin at velit ipsum. ",
+    "price":80,
+    "picturePath":"/images/offers/Arabuca.jpeg"
+    },
+    {
+    "productId": 2,
+    "category": "coffee",
+    "name": "Dark roast",
+    "description": "Praesent quis orci luctus, pretium lectus quis, suscipit ipsum. Praesent et lacus pharetra, interdum ipsum id, porttitor velit. Integer volutpat cursus ante, eget malesuada purus dictum non. Vestibulum a arcu dignissim, eleifend neque quis, blandit libero. Proin at velit ipsum. ",
+    "price": 85,
+    "picturePath": "/images/offers/darkroast.jpeg"
+    },
+    {
+    "productId": 3,
+    "category": "tea",
+    "name": "Tea bag blend",
+    "description":"Praesent molestie placerat mi et elementum. Maecenas pretium tempor erat ac sodales. Ut facilisis pulvinar egestas. Nunc luctus ut velit non pellentesque. Suspendisse venenatis, lorem eu aliquet sagittis, nisi nisl euismod tellus, id sagittis diam felis id nibh. Nullam enim magna, maximus in ex viverra, aliquet faucibus libero.",
+    "price": 150,
+    "picturePath": "/images/offers/teabags.jpeg"
+    },
+    {
+    "productId": 4,
+    "category": "tea",
+    "name": "Rose, loose leaf",
+    "description": "Praesent molestie placerat mi et elementum. Maecenas pretium tempor erat ac sodales. Ut facilisis pulvinar egestas. Nunc luctus ut velit non pellentesque. Suspendisse venenatis, lorem eu aliquet sagittis, nisi nisl euismod tellus, id sagittis diam felis id nibh. Nullam enim magna, maximus in ex viverra, aliquet faucibus libero.",
+    "price": 40,
+    "picturePath": "/images/offers/roseleaves.jpeg"
+    },
+    {
+    "productId":5,
+    "category":"coffee",
+    "name":"Ground coffee",
+    "description":"Praesent quis orci luctus, pretium lectus quis, suscipit ipsum. Praesent et lacus pharetra, interdum ipsum id, porttitor velit. Integer volutpat cursus ante, eget malesuada purus dictum non. Vestibulum a arcu dignissim, eleifend neque quis, blandit libero. Proin at velit ipsum. ",
+    "price":80,
+    "picturePath":"/images/coffee/ground.jpeg"
+    },
+    {
+    "productId":6,
+    "category":"coffee",
+    "name":"Dark",
+    "description":"Sed dapibus, ex sed luctus facilisis, quam nisi dignissim turpis, sit amet molestie turpis purus vitae velit. Curabitur vestibulum sodales lacus id tincidunt. Nulla congue tellus quis elit auctor rutrum. Pellentesque elementum auctor finibus. Aliquam consectetur libero non malesuada faucibus. Sed sed commodo tortor. Aliquam pretium efficitur suscipit.",
+    "price":69,
+    "picturePath":"/images/coffee/cap.jpeg"
+    },
+    {
+    "productId":7,
+    "category":"coffee",
+    "name":"Ground, filter",
+    "description":"Quisque accumsan mi sit amet tortor pretium accumsan. Sed turpis ligula, convallis sit amet consequat in, tincidunt id nisl. Etiam ipsum sapien, congue vel malesuada sit amet, blandit at sapien. Pellentesque pellentesque odio eu ante feugiat bibendum. In sagittis velit a urna lobortis semper. ",
+    "price":99,
+    "picturePath":"/images/coffee/filter2.jpeg"
+    },
+    {
+    "productId":8,
+    "category":"coffee",
+    "name":"Cup of Joe",
+    "description":"Praesent quis orci luctus, pretium lectus quis, suscipit ipsum. Praesent et lacus pharetra, interdum ipsum id, porttitor velit. Integer volutpat cursus ante, eget malesuada purus dictum non. Vestibulum a arcu dignissim, eleifend neque quis, blandit libero. Proin at velit ipsum. ",
+    "price":10,
+    "picturePath":"/images/coffee/filter.jpeg"
+    },
+    {
+    "productId":9,
+    "category":"coffee",
+    "name":"Mocha",
+    "description":"Sed dapibus, ex sed luctus facilisis, quam nisi dignissim turpis, sit amet molestie turpis purus vitae velit. Curabitur vestibulum sodales lacus id tincidunt. Nulla congue tellus quis elit auctor rutrum. Pellentesque elementum auctor finibus. Aliquam consectetur libero non malesuada faucibus. Sed sed commodo tortor. Aliquam pretium efficitur suscipit.",
+    "price":25,
+    "picturePath":"/images/coffee/cap.jpeg"
+    },
+    {
+    "productId":10,
+    "category":"coffee",
+    "name":"Coffee",
+    "description":"Sed sollicitudin tincidunt elit non pulvinar. Maecenas viverra diam quis fringilla tincidunt. Phasellus lobortis sollicitudin dui, a molestie justo aliquet eu. Phasellus eu vestibulum velit. ",
+    "price":79,
+    "picturePath":"/images/coffee/ground.jpeg"
+    },
+    {
+    "productId":11,
+    "category":"coffee",
+    "name":"Coffee",
+    "description":"Sed dapibus, ex sed luctus facilisis, quam nisi dignissim turpis, sit amet molestie turpis purus vitae velit. Curabitur vestibulum sodales lacus id tincidunt. Nulla congue tellus quis elit auctor rutrum. Pellentesque elementum auctor finibus. Aliquam consectetur libero non malesuada faucibus. Sed sed commodo tortor. Aliquam pretium efficitur suscipit.",
+    "price":155,
+    "picturePath":"/images/coffee/cap.jpeg"
+    },
+    {
+    "productId":12,
+    "category":"coffee",
+    "name":"Coffee",
+    "description":"Sed dapibus, ex sed luctus facilisis, quam nisi dignissim turpis, sit amet molestie turpis purus vitae velit. Curabitur vestibulum sodales lacus id tincidunt. Nulla congue tellus quis elit auctor rutrum. Pellentesque elementum auctor finibus. Aliquam consectetur libero non malesuada faucibus. Sed sed commodo tortor. Aliquam pretium efficitur suscipit.",
+    "price":120,
+    "picturePath":"/images/coffee/filter2.jpeg"
+    },
+    {
+    "productId":13,
+    "category":"tea",
+    "name":"Tea blend",
+    "description":"Praesent molestie placerat mi et elementum. Maecenas pretium tempor erat ac sodales. Ut facilisis pulvinar egestas. Nunc luctus ut velit non pellentesque. Suspendisse venenatis, lorem eu aliquet sagittis, nisi nisl euismod tellus, id sagittis diam felis id nibh. Nullam enim magna, maximus in ex viverra, aliquet faucibus libero.",
+    "price":39,
+    "picturePath":"/images/offers/teabags.jpeg"
+    },
+    {
+    "productId":14,
+    "category":"tea",
+    "name":"Lemon tea",
+    "description":"Sed elementum metus at dui laoreet posuere. Duis non metus tristique, ullamcorper sem sed, hendrerit ex. Morbi eget est sit amet lectus luctus bibendum sit amet at ipsum. Nunc luctus elementum nunc, vitae pharetra lacus aliquam in. Sed aliquet efficitur porta. Donec ultricies id quam ut rutrum.",
+    "price":99,
+    "picturePath":"/images/tea/lemon.jpeg"
+    },
+    {
+    "productId":15,
+    "category":"tea",
+    "name":"Herb",
+    "description":"Quisque accumsan mi sit amet tortor pretium accumsan. Sed turpis ligula, convallis sit amet consequat in, tincidunt id nisl. Etiam ipsum sapien, congue vel malesuada sit amet, blandit at sapien. Pellentesque pellentesque odio eu ante feugiat bibendum. In sagittis velit a urna lobortis semper. ",
+    "price":149,
+    "picturePath":"/images/tea/loosetea.jpeg"
+    },
+    {
+    "productId":16,
+    "category":"tea",
+    "name":"Tea blend",
+    "description":"Sed sollicitudin tincidunt elit non pulvinar. Maecenas viverra diam quis fringilla tincidunt. Phasellus lobortis sollicitudin dui, a molestie justo aliquet eu. Phasellus eu vestibulum velit. ",
+    "price":49,
+    "picturePath":"/images/offers/teabags.jpeg"
+    },
+    {
+    "productId":17,
+    "category":"tea",
+    "name":"Tea blend",
+    "description":"Sed elementum metus at dui laoreet posuere. Duis non metus tristique, ullamcorper sem sed, hendrerit ex. Morbi eget est sit amet lectus luctus bibendum sit amet at ipsum. Nunc luctus elementum nunc, vitae pharetra lacus aliquam in. Sed aliquet efficitur porta. Donec ultricies id quam ut rutrum.",
+    "price":10,
+    "picturePath":"/images/offers/teabags.jpeg"
+    }
+]

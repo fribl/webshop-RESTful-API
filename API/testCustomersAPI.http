@@ -1,0 +1,28 @@
+// create customer
+
+POST http://localhost:3000/customers HTTP/1.1
+content-type: application/json
+
+{"customerId":13, "customerName": "tarzan", "basket": []}
+###
+
+POST http://localhost:3000/customers HTTP/1.1
+content-type: application/json
+
+{"customerId":1, "customerName": "John Doe", "basket": []}
+###
+
+PUT http://localhost:3000/customers/13/basket/1 HTTP/1.1
+
+###
+
+DELETE http://localhost:3000/customers/13/basket/1 HTTP/1.1
+
+###
+
+GET http://localhost:3000/customers/13/basket HTTP/1.1 
+
+###
+PUT http://localhost:3000/customers/1/basket/3 HTTP/1.1
+
+###

@@ -1,0 +1,26 @@
+
+//get all products
+GET http://localhost:3000/products HTTP/1.1
+
+###
+
+//get one product
+GET http://localhost:3000/products/product/2 HTTP/1.1
+
+
+###
+
+//getting products from a specific category
+GET http://localhost:3000/products/tea HTTP/1.1
+
+###
+
+//showing the categories:
+GET http://localhost:3000/products/categories HTTP/1.1
+
+###
+
+//get a product by category
+GET http://localhost:3000/products/tea/4 HTTP/1.1
+
+###
